@@ -32,7 +32,7 @@ An autonomous rescue vehicle implementing dynamic navigation and body detection 
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](docs/demo.png)
+![Product Screenshot](docs/demo.png)
 
 This project implements an autonomous rescue car capable of:
 - Dynamic path planning in unknown environments
