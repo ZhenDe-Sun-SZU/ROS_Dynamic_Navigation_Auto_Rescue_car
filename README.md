@@ -70,7 +70,11 @@ This project implements an autonomous rescue car capable of:
 1. Clone the repo
 ```bash
 git clone https://github.com/yourusername/ROS_Dynamic_Navigation_Auto_Rescue_car.git
+```
+2. Set directory for it
+```bash
 cd ROS_Dynamic_Navigation_Auto_Rescue_car
+```
 
 ## 🚀 Usage
 
